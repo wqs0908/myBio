@@ -48,9 +48,15 @@
   * 精通javascript、 html、 css、
   * 能调兼容、能简单设计UI、能基础性能调优 
   * 熟练使用通用前端框架（jquery、zepto、Bootstrap、AngularJS等）
-  * 未接触的框架，只要有API能快速上手使用
+  * 未接触的框架，只要有API能快速上手使用            
 ####后端
   * 熟练 .NET
-  * 熟练 java
+  * 熟练 java         
 ####了解
-  * android、大数据， nginx等
+  * android、大数据， nginx等         
+  
+####个人特质
+擅长写作、爱好听音乐、 散心， 思维活跃， 善于思考问题
+
+####个人优势
+解决问题能力强、接受能力强、思维活跃、对技术执着
