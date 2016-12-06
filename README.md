@@ -94,9 +94,9 @@
 
 ###技术参考
   * 个人博客： http://www.cnblogs.com/GerryOfZhong/
-  * Github库:  https://github.com/GerryIsWarrior
-  * 个人笔记:  http://url.cn/41fCV3d
-  * 个人书签:  https://gerryiswarrior.github.io/MyBookmarks/
+  * Github库：  https://github.com/GerryIsWarrior
+  * 个人笔记：  http://url.cn/41fCV3d
+  * 个人书签： https://gerryiswarrior.github.io/MyBookmarks/
 
 ###近期目标
 > 专注原声js， 做自己的开源项目框架（ UI.js）编写，详细见博客
