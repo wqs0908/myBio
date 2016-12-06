@@ -20,37 +20,43 @@
   * 时间：2015.03-2015.04      
   * 负责：项目维护、 细节修改       
   
-  > 艾仕得涂料税率系统（ CPUCalculationSystem）
+> 艾仕得涂料税率系统（ CPUCalculationSystem）
   
   * 职位：主程
   * 时间：2015.04-2015.06
   * 负责：后台管理模块
-  > 欧莱雅财务计算系统（ Loreal Diamond System）
+  
+> 欧莱雅财务计算系统（ Loreal Diamond System）
   
    * 职位：主程
    * 时间：2015.06-2015.08
    * 负责：部分基础数据模块、 Dashboard模块、 Diamond Report模块
-  > Axaltacs_SCM项目（Axaltacs_SCM）
+   
+> Axaltacs_SCM项目（Axaltacs_SCM）
   
   * 职位：支持
   * 时间：2015.08-2015.09
   * 负责：PhaseInCustomer模块
-  > 瑞慈接口web项目（Rich_Interface web）
+  
+> 瑞慈接口web项目（Rich_Interface web）
   
   * 职位：微架构/主程
   * 时间：2015.09-2015.10
   * 负责：整体项目搭建设计编码
-  > 欧莱雅PD_AppToolkit（ Loreal_IOSAppToolkit）
+  
+> 欧莱雅PD_AppToolkit（ Loreal_IOSAppToolkit）
   
   * 职位：微架构/主程
   * 时间：2015.11-2016.02
   * 负责：IOS后台管理系统数据维护模块， 负责IOS接口设计与编写，app安全方案设计
-  > 富邦华一直销银行
+  
+> 富邦华一直销银行
   
   * 职位：前端主程
   * 时间：2016.04-2016.07
   * 负责：理财模块设计编码、 整体项目的维护、改进与调优
-  > 云南红塔银行统一支付平台
+  
+> 云南红塔银行统一支付平台
   
   * 职位：前端/内管负责人
   * 时间：2016.07-至今
