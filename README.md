@@ -48,10 +48,12 @@
   * 精通javascript、 html、 css、
   * 能调兼容、能简单设计UI、能基础性能调优 
   * 熟练使用通用前端框架（jquery、zepto、Bootstrap、AngularJS等）
-  * 未接触的框架，只要有API能快速上手使用            
+  * 未接触的框架，只要有API能快速上手使用   
+           
 ####后端
   * 熟练 .NET
-  * 熟练 java         
+  * 熟练 java       
+    
 ####了解
   * android、大数据， nginx等         
   
