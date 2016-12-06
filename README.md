@@ -57,14 +57,18 @@
 #####了解
   * android、大数据， nginx等         
   
-####个人特质
-擅长写作、爱好听音乐、 散心， 思维活跃， 善于思考问题
+####个人特质：
+  擅长写作、爱好听音乐、 散心， 思维活跃， 善于思考问题
 
-####个人优势
-解决问题能力强、接受能力强、思维活跃、对技术执着
+####个人优势：
+  解决问题能力强、接受能力强、思维活跃、对技术执着
 
 ####技术参考
+
 #####个人博客： http://www.cnblogs.com/GerryOfZhong/
 #####Github托管库: https://github.com/GerryIsWarrior
 #####个人笔记: http://url.cn/41fCV3d
 #####个人书签: https://gerryiswarrior.github.io/MyBookmarks/
+
+####近期目标
+  专注原声js， 做自己的开源项目框架（ UI.js）编写，详细见博客
