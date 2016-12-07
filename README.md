@@ -120,4 +120,4 @@
   
 ###目前就职公司意向：b a t
 
-####公网页面：https://github.com/GerryIsWarrior/myBio
+####公网页面：https://gerryiswarrior.github.io/myBio/
